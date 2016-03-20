@@ -16,3 +16,10 @@
 	display: block;
 	margin: 20px 15px;
 }
+
+.contenedor .botones{
+	display: flex;
+	flex-flow:row wrap;
+	justify-content:space-between;
+	margin:25px 15px;
+}
