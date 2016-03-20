@@ -1,0 +1,13 @@
+.contenedor{
+	width:35%;
+	margin:0 auto;
+	border: 1px solid #000;
+}
+
+.contenedor h2{
+	background-color: #00BFFF;
+	color:#FFF;
+	text-align: center;
+	margin-top: 0px;
+	font-family: "Arial Narrow";
+}
