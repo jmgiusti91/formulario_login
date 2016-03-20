@@ -23,3 +23,17 @@
 	justify-content:space-between;
 	margin:25px 15px;
 }
+
+.contenedor .botones .presionar{
+	background-color: #00BFFF;
+	border:1px solid #00BFFF;
+	padding: 5px 20px;
+	color:#FFF;
+	cursor: pointer;
+	transition:0.6s all ease;
+}
+
+.contenedor .botones .presionar:hover{
+	background-color: #045FB4;
+	border:1px solid #045FB4;
+}
