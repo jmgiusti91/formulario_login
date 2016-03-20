@@ -11,3 +11,8 @@
 	margin-top: 0px;
 	font-family: "Arial Narrow";
 }
+
+.contenedor .correo{
+	display: block;
+	margin: 20px 15px;
+}
